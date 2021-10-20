@@ -1,2 +1,2 @@
-# LAB 7
- # [TITLE OF YOUR WEBPAGE]   [Link to my webpage on the Web]([INCLUDE THE LINK HERE])
+# Lab 7
+ # EVO   https://jhosmillo.github.io/LAB-7/
